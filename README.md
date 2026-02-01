@@ -1,4 +1,4 @@
-#End-to-End-Restaurant-Analytics-Prediction-Recommendation-Platform
+# End-to-End-Restaurant-Analytics-Prediction-Recommendation-Platform
 
 About
 An end-to-end machine learning project that analyzes restaurant data, predicts key performance indicators, and generates intelligent restaurant recommendations using structured feature engineering and ML pipelines.
